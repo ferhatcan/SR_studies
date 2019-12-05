@@ -9,7 +9,6 @@
 - [ ] Block State Based Recursive Method(BSRN)
 - [ ] Cascading Residual Network(CARN)
 - [ ] SRGAN
-- [ ] 
 
 ### IMPLEMENTATIONS
 
