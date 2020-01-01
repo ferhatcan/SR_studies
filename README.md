@@ -1,14 +1,8 @@
 ## SUPER RESOULTION METHODS, REVIEWS AND IMPLEMENTATIONS
 
-### METHOD REVIEWS
-
-- [x] [Predictive Filter Flow(PFF)](PFF_review.pdf)
-- [x] [Enhanced Deep Residual Network SR(EDSR)](EDSR_review.pdf)
-- [x] [Zero Shot Super Resolution(ZSSR)](ZSSR_review.pdf)
-- [ ] Second-order Attention Network(SAN)
-- [ ] Block State Based Recursive Method(BSRN)
-- [ ] Cascading Residual Network(CARN)
-- [ ] SRGAN
-
-### IMPLEMENTATIONS
+### TODO List
+ - [ ] Review papers to decide degradation function
+ - [ ] Review papers to decide loss functions (Perception loss, L1 loss, L2 loss)
+ - [ ] Select methods to training
+ - [ ] Write docker steps to share
 
