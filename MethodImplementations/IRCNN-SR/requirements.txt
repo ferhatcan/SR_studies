@@ -60,7 +60,7 @@ notebook==6.0.3
 numpy==1.16.3
 oauthlib==3.1.0
 olefile==0.46
-opencv-python==4.1.0.25
+opencv-python==4.2.0.32
 opt-einsum==3.1.0
 pandocfilters==1.4.2
 parso==0.6.1
